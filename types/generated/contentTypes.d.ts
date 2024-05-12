@@ -868,12 +868,12 @@ export interface ApiProductProduct extends Schema.CollectionType {
     category: Attribute.Enumeration<
       [
         'Shampoo',
-        'Air Conditioner',
-        'Sirvitka Vitamin For Face',
-        'Face Cream',
-        'Eye Cream',
-        'Perfume',
-        'Sirvita For Hair Growth'
+        'Conditioner  ',
+        'Vitamin face serum  ',
+        'Face cream  ',
+        'Eye cream ',
+        'Perfume ',
+        'Hair growth serum'
       ]
     >;
     description: Attribute.Blocks;

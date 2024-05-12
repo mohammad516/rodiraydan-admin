@@ -33,12 +33,12 @@
       "type": "enumeration",
       "enum": [
         "Shampoo",
-        "Air Conditioner",
-        "Sirvitka Vitamin For Face",
-        "Face Cream",
-        "Eye Cream",
-        "Perfume",
-        "Sirvita For Hair Growth"
+        "Conditioner  ",
+        "Vitamin face serum  ",
+        "Face cream  ",
+        "Eye cream ",
+        "Perfume ",
+        "Hair growth serum"
       ]
     },
     "description": {
