@@ -32,13 +32,13 @@
     "category": {
       "type": "enumeration",
       "enum": [
-        "Шампунь",
-        "кондиционер",
-        "сирвитка витамин для лица",
-        "крем для лица",
-        "крем для глаз",
-        "парфюм",
-        "сирвитка для роста волос"
+        "Shampoo",
+        "Air Conditioner",
+        "Sirvitka Vitamin For Face",
+        "Face Cream",
+        "Eye Cream",
+        "Perfume",
+        "Sirvita For Hair Growth"
       ]
     },
     "description": {

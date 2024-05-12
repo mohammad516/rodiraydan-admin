@@ -867,13 +867,13 @@ export interface ApiProductProduct extends Schema.CollectionType {
     price: Attribute.Decimal;
     category: Attribute.Enumeration<
       [
-        '\u0428\u0430\u043C\u043F\u0443\u043D\u044C',
-        '\u043A\u043E\u043D\u0434\u0438\u0446\u0438\u043E\u043D\u0435\u0440',
-        '\u0441\u0438\u0440\u0432\u0438\u0442\u043A\u0430 \u0432\u0438\u0442\u0430\u043C\u0438\u043D \u0434\u043B\u044F \u043B\u0438\u0446\u0430',
-        '\u043A\u0440\u0435\u043C \u0434\u043B\u044F \u043B\u0438\u0446\u0430',
-        '\u043A\u0440\u0435\u043C \u0434\u043B\u044F \u0433\u043B\u0430\u0437',
-        '\u043F\u0430\u0440\u0444\u044E\u043C',
-        '\u0441\u0438\u0440\u0432\u0438\u0442\u043A\u0430 \u0434\u043B\u044F \u0440\u043E\u0441\u0442\u0430 \u0432\u043E\u043B\u043E\u0441'
+        'Shampoo',
+        'Air Conditioner',
+        'Sirvitka Vitamin For Face',
+        'Face Cream',
+        'Eye Cream',
+        'Perfume',
+        'Sirvita For Hair Growth'
       ]
     >;
     description: Attribute.Blocks;
